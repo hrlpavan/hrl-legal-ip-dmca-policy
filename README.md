@@ -25,6 +25,8 @@ All source codes, visual computing shaders, neural models, brand names, logos, t
 | **[4. Statutory Legal Consequences & Liabilities](STATUTORY_LEGAL_CONSEQUENCES_AND_LIABILITIES.md)** | **Exhaustive breakdown of civil damages, criminal FIRs, non-bailable arrest provisions, and government case filings faced by violators.** | BNS 2023, IT Act Sec 43/66, Anti-Ragging Act 1998, Indian Penal Code |
 | **[5. How HRL Brand Operates](HOW_HRL_BRAND_OPERATES.md)** | Architecture blueprint: on-device GPU computing, ACEScc color science, zero-cloud privacy, and commercial SaaS models. | Corporate Operational Charter |
 | **[6. Official Printable Legal PDF](pdfs/HRL_International_IP_Trademark_DMCA_Charter.pdf)** | Apple HIG-standard, executive vector-sharp printable charter PDF. | Certified Board Declaration |
+| **[7. Commercial Profile Avatar Patent & IP Dossier](OFFICIAL_COMMERCIAL_PROFILE_AVATAR_PATENT_AND_IP_DOSSIER.md)** | Design Patent, Commercial Trade Dress, Trademark (Classes 9, 35, 38, 41, 42), Copyright & Cryptographic Signature Dossier (`HRL-IP-PAT-AVATAR-2026-PKS-001`) under **Pavan Kumar Sadashiv**. | Patents Act 1970, Designs Act 2000, USPTO 35 U.S.C. § 171, DMCA § 1202 |
+| **[8. Printable Profile Avatar Patent & Cryptographic Charter PDF](pdfs/Pavan_Kumar_Sadashiv_Profile_Avatar_Patent_and_Cryptographic_Charter.pdf)** | Official A4 printable Patent & Cryptographic Attestation Charter signed under **Pavan Kumar Sadashiv** (`SHA-256: 0660daf4d7377af82d844c854db878139dbee957e69575e83e2fc89862a07b8e`). | X.509 RSA-4096 & OpenSSH Ed25519 Signed |
 
 ---
 
